@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-* Implemented this project based on paper titled, "[Image Style Transfer Using Convolutional Neural Networks]"(https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+* Implemented this project based on paper titled, ["Image Style Transfer Using Convolutional Neural Networks"](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 * Take a content image and a style image 
 * Produce a new image which reflects the content of the content image but the artistic "style" of the style image
 * Calculate the loss function (combination of content loss and style loss) which matches the content and style of each respective image in the feature space
