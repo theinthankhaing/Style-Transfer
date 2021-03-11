@@ -10,6 +10,7 @@
 * Pre - trained deep neural network, [SqueezeNet](https://arxiv.org/abs/1602.07360) is used
 * CPU is used
 * Pytorch is used
+_____________________________________________________
 
 ## Environment Setup
 
@@ -17,6 +18,7 @@
 * Jupyter Notebook
 * Pytorch
 * Python 3.7
+____________________________________________________________
 
 ## Procedures
 
@@ -27,6 +29,7 @@
 * Adam optimizer is used
 * Total loss computation is calculated
 * Output image is obtained by using deprocessing function on target image
+_________________________________________________________________________
 
 ## Result
 ![image](https://user-images.githubusercontent.com/50255936/110827029-a18b4700-82d0-11eb-9f74-eeacffe7f2b4.png)
