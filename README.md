@@ -20,4 +20,13 @@
 
 ## Procedures
 
-* Content - Loss is calculated using the following equation:
+* Content loss, Gram matrix and style loss are calculated first by using equations from [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+* Pre-process images and resize it to 224 x 224 
+* Extract features using model.features 
+* Target image is calculated and features are extracted
+* Adam optimizer is used
+* Total loss computation is calculated
+* Output image is obtained by using deprocessing function on target image
+
+## Result
+![image](https://user-images.githubusercontent.com/50255936/110827029-a18b4700-82d0-11eb-9f74-eeacffe7f2b4.png)
