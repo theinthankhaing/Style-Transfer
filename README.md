@@ -10,6 +10,7 @@
 * Pre - trained deep neural network, [SqueezeNet](https://arxiv.org/abs/1602.07360) is used
 * CPU is used
 * Pytorch is used
+* Programming Language - Python
 _____________________________________________________
 
 ## Environment Setup
@@ -18,6 +19,7 @@ _____________________________________________________
 * Jupyter Notebook
 * Pytorch
 * Python 3.7
+* Pre - trained deep neural network, [SqueezeNet](https://arxiv.org/abs/1602.07360)
 ____________________________________________________________
 
 ## Procedures
