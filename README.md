@@ -1,4 +1,4 @@
-# Style Transfer
+# Neural Style Transfer
 
 ## Project Overview
 
